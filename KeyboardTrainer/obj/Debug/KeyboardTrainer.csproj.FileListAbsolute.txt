@@ -1,0 +1,7 @@
+C:\Users\Администратор\source\repos\KeyboardTrainer\KeyboardTrainer\bin\Debug\KeyboardTrainer.exe.config
+C:\Users\Администратор\source\repos\KeyboardTrainer\KeyboardTrainer\bin\Debug\KeyboardTrainer.exe
+C:\Users\Администратор\source\repos\KeyboardTrainer\KeyboardTrainer\bin\Debug\KeyboardTrainer.pdb
+C:\Users\Администратор\source\repos\KeyboardTrainer\KeyboardTrainer\obj\Debug\KeyboardTrainer.csprojResolveAssemblyReference.cache
+C:\Users\Администратор\source\repos\KeyboardTrainer\KeyboardTrainer\obj\Debug\KeyboardTrainer.csproj.CoreCompileInputs.cache
+C:\Users\Администратор\source\repos\KeyboardTrainer\KeyboardTrainer\obj\Debug\KeyboardTrainer.exe
+C:\Users\Администратор\source\repos\KeyboardTrainer\KeyboardTrainer\obj\Debug\KeyboardTrainer.pdb
